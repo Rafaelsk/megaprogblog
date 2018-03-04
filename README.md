@@ -1,2 +1,0 @@
-# megaprogblog
-Megaprog's Blog
